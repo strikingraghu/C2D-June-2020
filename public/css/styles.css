@@ -397,3 +397,11 @@
     position: absolute;
 
 }
+
+.form-poster {
+    width: 300px;
+    height: 495px;
+    padding-left: 0px;
+    border-left-width: 100px;
+    margin-left: 50px;
+}
